@@ -1,2 +1,7 @@
 # Pokedex
-Pokedex of all of Gen 1 Pokemon | CodeHS
+Pokedex of Gen 1 Pokemon | CodeHS
+What to expect?
+
+- Pokedex Number
+- Typing
+- Base Stats + Stats
