@@ -1,5 +1,5 @@
 # Pokedex
-Pokedex of Gen 1 Pokemon | CodeHS
+Pokedex of Gen 3 Pokemon | CodeHS
 
 - Pokedex Number
 - Typing
