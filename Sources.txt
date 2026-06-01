@@ -1,0 +1,8 @@
+Guides + Sources
+JavaFX list of Classes
+https://docs.oracle.com/javase/8/javafx/api/allclasses-noframe.html
+JavaFX guide of JavaFX
+https://gist.github.com/techgiants91/fa42ba40e3741e6e3fea7fbff01ee29d
+Pokedex Demo (Took inspiration)
+https://youtu.be/RpMgomoqydQ?si=dK6_OhvdlPJs7cV5
+http://claude.ai/chat/
