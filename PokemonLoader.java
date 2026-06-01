@@ -35,7 +35,7 @@ public class PokemonLoader {
                 int    id             = Integer.parseInt(parts[0]);
                 String name           = parts[1];
                 String type1          = parts[2];
-                String type2          = parts[3]; // empty string if no secondary type
+                String type2          = parts[3]; // empty string if no 2nd type
                 int    total          = Integer.parseInt(parts[4]);
                 int    hp             = Integer.parseInt(parts[5]);
                 int    attack         = Integer.parseInt(parts[6]);
