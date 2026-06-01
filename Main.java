@@ -139,25 +139,25 @@ public class Main extends Application {
 
         // Load image 
         String imagePath = switch (p.getID()) {
-            case 249  -> "249_lugia.png";
-            case 250  -> "250_ho-oh.png";
-            case 251  -> "251_celebi.png";
-            case 382  -> "382_kyogre.png";
-            case 383  -> "383_groundon.png";
-            case 384  -> "384_rayquaza.png";
-            case 483  -> "483_dialga.png";
-            case 484  -> "484_palkia.png";
-            case 487  -> "487_giratina.png";
-            case 643  -> "643_reshiram.png";
-            case 644  -> "644_zekrom.png";
-            case 716  -> "716_xerneas.png";
-            case 717  -> "717_yveltal.png";
-            case 791  -> "791_solgaleo.png";
-            case 792  -> "792_lunala.png";
-            case 888  -> "888_zacian.png";
-            case 889  -> "889_zamazenta.png";
-            case 1007 -> "1007_koraidon.png";
-            case 1008 -> "1008_miraidon.png";
+            case 249  -> "lugia.png";
+            case 250  -> "ho-oh.png";
+            case 251  -> "celebi.png";
+            case 382  -> "kyogre.png";
+            case 383  -> "groundon.png";
+            case 384  -> "rayquaza.png";
+            case 483  -> "dialga.png";
+            case 484  -> "palkia.png";
+            case 487  -> "giratina.png";
+            case 643  -> "reshiram.png";
+            case 644  -> "zekrom.png";
+            case 716  -> "xerneas.png";
+            case 717  -> "yveltal.png";
+            case 791  -> "solgaleo.png";
+            case 792  -> "lunala.png";
+            case 888  -> "zacian.png";
+            case 889  -> "zamazenta.png";
+            case 1007 -> "koraidon.png";
+            case 1008 -> "miraidon.png";
             default   -> null;
         };
 
