@@ -1,5 +1,5 @@
 # Pokedex
-Pokedex of Gen 3 Pokemon | CodeHS
+Pokedex of Box-Art Pokemon | CodeHS
 
 # Features
 - Pokedex Number
